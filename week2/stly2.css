@@ -1,0 +1,15 @@
+.bu {
+  padding: 20px;
+  margin: 100px;
+}
+
+.box {
+  border: 1px solid rebeccapurple;
+  padding: 10px;
+  display: block;
+}
+.con {
+  height: 400px;
+  width: 100%;
+  border: 1px solid rebeccapurple;
+}

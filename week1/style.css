@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(210, 234, 226);
+  background-position: top;
+  background-size: cover;
+  font-family: fantasy, sans-serif;
+}
+.header {
+  color: rgb(red, green, blue);
+  text-align: center;
+  text-transform: lowercase;
+  background-color: rgb(132, 14, 216);
+  text-shadow: 2px 2px 2px red;
+}
+.honepage {
+  border: 1px solid red;
+  border-radius: 25px;
+}
+button {
+  background-color: rgb(210, 30, 192);
+  border: none;
+  color: aliceblue;
+  border-radius: 25px;
+}
+button:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+  border: 1px solid black;
+}
